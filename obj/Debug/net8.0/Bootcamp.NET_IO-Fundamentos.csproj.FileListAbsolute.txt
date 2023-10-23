@@ -1,0 +1,14 @@
+C:\Users\Israe\Documents\MeusProjetos\Bootcamp.NET_IO-Fundamentos\bin\Debug\net8.0\Bootcamp.NET_IO-Fundamentos.exe
+C:\Users\Israe\Documents\MeusProjetos\Bootcamp.NET_IO-Fundamentos\bin\Debug\net8.0\Bootcamp.NET_IO-Fundamentos.deps.json
+C:\Users\Israe\Documents\MeusProjetos\Bootcamp.NET_IO-Fundamentos\bin\Debug\net8.0\Bootcamp.NET_IO-Fundamentos.runtimeconfig.json
+C:\Users\Israe\Documents\MeusProjetos\Bootcamp.NET_IO-Fundamentos\bin\Debug\net8.0\Bootcamp.NET_IO-Fundamentos.dll
+C:\Users\Israe\Documents\MeusProjetos\Bootcamp.NET_IO-Fundamentos\bin\Debug\net8.0\Bootcamp.NET_IO-Fundamentos.pdb
+C:\Users\Israe\Documents\MeusProjetos\Bootcamp.NET_IO-Fundamentos\obj\Debug\net8.0\Bootcamp.NET_IO-Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Israe\Documents\MeusProjetos\Bootcamp.NET_IO-Fundamentos\obj\Debug\net8.0\Bootcamp.NET_IO-Fundamentos.AssemblyInfoInputs.cache
+C:\Users\Israe\Documents\MeusProjetos\Bootcamp.NET_IO-Fundamentos\obj\Debug\net8.0\Bootcamp.NET_IO-Fundamentos.AssemblyInfo.cs
+C:\Users\Israe\Documents\MeusProjetos\Bootcamp.NET_IO-Fundamentos\obj\Debug\net8.0\Bootcamp.NET_IO-Fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\Israe\Documents\MeusProjetos\Bootcamp.NET_IO-Fundamentos\obj\Debug\net8.0\Bootcamp.NET_IO-Fundamentos.dll
+C:\Users\Israe\Documents\MeusProjetos\Bootcamp.NET_IO-Fundamentos\obj\Debug\net8.0\refint\Bootcamp.NET_IO-Fundamentos.dll
+C:\Users\Israe\Documents\MeusProjetos\Bootcamp.NET_IO-Fundamentos\obj\Debug\net8.0\Bootcamp.NET_IO-Fundamentos.pdb
+C:\Users\Israe\Documents\MeusProjetos\Bootcamp.NET_IO-Fundamentos\obj\Debug\net8.0\Bootcamp.NET_IO-Fundamentos.genruntimeconfig.cache
+C:\Users\Israe\Documents\MeusProjetos\Bootcamp.NET_IO-Fundamentos\obj\Debug\net8.0\ref\Bootcamp.NET_IO-Fundamentos.dll
