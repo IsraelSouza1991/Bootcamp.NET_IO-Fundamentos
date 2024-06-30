@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bootcamp.NET_IO-Fundamentos")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+158fc6e5b48ea6e372eea7a5ba5b4ae20b00e0b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bootcamp.NET_IO-Fundamentos")]
